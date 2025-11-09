@@ -1,2 +1,3 @@
 WORLD|https://raw.githubusercontent.com/sucksense/sucksense/refs/heads/main/workshop/remap.lua|RemapCODE|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/hysteria.lua|hysteria 1.6
 CODE|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/paranoia.lua|paranoia
+VISUALS|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/Aimbot_Logs.lua|Advanced aimbot logs
