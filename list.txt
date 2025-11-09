@@ -4,3 +4,4 @@ VISUALS|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/Aimb
 VISUALS|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/advancedbuylog.lua|Advanced buy logs
 CODE|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/hitchance_3.lua|Hitchance override
 WORLD|https://raw.githubusercontent.com/sucksense/sucksense/refs/heads/main/workshop/remap.lua|Remap
+CODE|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/oxygen_dev.lua|Oxygen
