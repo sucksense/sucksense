@@ -1,1 +1,2 @@
 WORLD|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/namespam.lua|example
+CODE|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/cascade light.lua|example2
