@@ -1,2 +1,0 @@
-
-WORLD|https://raw.githubusercontent.com/sucksense/sucksense/main/loader/workshop/Nyanza Regular.lua|poo
