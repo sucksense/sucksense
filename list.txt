@@ -1,1 +1,1 @@
-WORLD|https://github.com/sucksense/sucksense/blob/main/workshop/remap.lua|Remap
+WORLD|https://raw.githubusercontent.com/sucksense/sucksense/refs/heads/main/workshop/remap.lua|Remap
