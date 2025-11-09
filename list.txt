@@ -1,6 +1,1 @@
-WORLD|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/namespam.lua|example
-WORLD|https://github.com/uwukson4800/sucksense/blob/main/loader/workshop/remap.lua|Remap
-CODE|https://raw.githubusercontent.com/notesdeath/gamesense-workshop-leak-fulldump-2025/refs/heads/main/Hide%20error%20models.lua|Hide error models
-CODE|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/cascade light.lua|example2
-CODE|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/world.lua|sucking balls
-CODE|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/wireframehand.lua|suck my balls fucking n
+WORLD|https://github.com/sucksense/sucksense/blob/main/workshop/remap.lua|Remap
