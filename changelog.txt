@@ -1,4 +1,4 @@
 BUILD: Release
-UPDATED: 09.11.2025
+UPDATED: 10.11.2025
 CHANGELOG:
-- removed 'Legacy desync'
+- now you can disable model changer before inject
