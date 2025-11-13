@@ -1,4 +1,4 @@
 BUILD: Release
-UPDATED: 10.11.2025
+UPDATED: 13.11.2025
 CHANGELOG:
-- now you can disable model changer before inject
+- test build
