@@ -6,3 +6,4 @@ CODE|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/hitchan
 WORLD|https://raw.githubusercontent.com/sucksense/sucksense/refs/heads/main/workshop/remap.lua|Remap
 CODE|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/oxygen_dev.lua|Oxygen
 CODE|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/gamemetrics.lua|antarctica (old)
+VISUALS|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/neverlose hotkeys.lua|Neverlose Keybinds
