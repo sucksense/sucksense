@@ -7,3 +7,4 @@ WORLD|https://raw.githubusercontent.com/sucksense/sucksense/refs/heads/main/work
 CODE|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/oxygen_dev.lua|Oxygen
 CODE|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/gamemetrics.lua|antarctica (old)
 VISUALS|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/neverlose hotkeys.lua|Neverlose Keybinds
+CODE|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/luasense-beta-gs.lua|Luasense-Beta
