@@ -1,7 +1,7 @@
 BUILD: Release
-UPDATED: 14.11.2025
+UPDATED: 23.11.2025
 CHANGELOG:
-- improved 'local bullet tracers'
-- fixed 'aspect ratio'
-- returned 'legacy desync'
-- returned 'interpolate animations'
+- added convar 'sv_legacy_desync'
+- improved 'Player interpolation'
+- removed checkbox 'Legacy desync'
+- removed console filter
