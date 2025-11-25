@@ -1,7 +1,8 @@
 BUILD: Release
-UPDATED: 23.11.2025
+UPDATED: 25.11.2025
 CHANGELOG:
-- added convar 'sv_legacy_desync'
-- improved 'Player interpolation'
-- removed checkbox 'Legacy desync'
-- removed console filter
+- fixed 'Player Interpolation'
+- changed clantag ( gamesense -> sucksense )
+- changed logs ( [gamesense] Missed shot due to spread -> sucksense | Missed shot due to spread )
+- changed speed of menu alpha
+- changed color of indicator doubletap recharge
