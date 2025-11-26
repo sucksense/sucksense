@@ -1,8 +1,4 @@
 BUILD: Release
-UPDATED: 25.11.2025
+UPDATED: 26.11.2025
 CHANGELOG:
-- fixed 'Player Interpolation'
-- changed clantag ( gamesense -> sucksense )
-- changed logs ( [gamesense] Missed shot due to spread -> sucksense | Missed shot due to spread )
-- changed speed of menu alpha
-- changed color of indicator doubletap recharge
+- added 'Menu Fade Animation'
