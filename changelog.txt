@@ -1,7 +1,4 @@
 BUILD: Release
-UPDATED: 26.11.2025
+UPDATED: 28.11.2025
 CHANGELOG:
-- added 'Console filter' ( MISC -> Console filter )
-- changed log prefix ( changed color & text ( sucksense -> gs ) )
-- changed grenade proximity warning
-- some changed color menu
+- extensive customization of menu colors, visuals, and indicators ( with simple config system )
