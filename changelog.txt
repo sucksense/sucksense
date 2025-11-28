@@ -1,5 +1,6 @@
 BUILD: Release
-UPDATED: 28.11.2025
+UPDATED: 29.11.2025
 CHANGELOG:
-- improved 'Theme Manager' ( + added 'C4 flag' )
-- some changed logs
+- added 'Language' ( now you can rename all menu elements )
+- removed 'Smoother gameplay'
+- removed 'Interpolate animations'
