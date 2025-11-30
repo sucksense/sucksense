@@ -9,3 +9,4 @@ CODE|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/gamemet
 VISUALS|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/neverlose hotkeys.lua|Neverlose Keybinds
 CODE|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/luasense-beta-gs.lua|Luasense-Beta
 CODE|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/grenade helper.lua|Nade' Helper
+CODE|https://raw.githubusercontent.com/sucksense/sucksense/refs/heads/main/workshop/senkotech|senkotech_shared
