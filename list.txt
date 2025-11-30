@@ -1,12 +1,2 @@
-CODE|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/hysteria.lua|hysteria_1_6
-CODE|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/paranoia.lua|paranoia
-VISUALS|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/Aimbot_Logs.lua|Advanced aimbot logs
-VISUALS|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/advancedbuylog.lua|Advanced buy logs
-CODE|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/hitchance_3.lua|Hitchance override
-WORLD|https://raw.githubusercontent.com/sucksense/sucksense/refs/heads/main/workshop/remap.lua|Remap
-CODE|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/oxygen_dev.lua|Oxygen
-CODE|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/gamemetrics.lua|antarctica (old)
-VISUALS|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/neverlose hotkeys.lua|Neverlose Keybinds
-CODE|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/luasense-beta-gs.lua|Luasense-Beta
-CODE|https://raw.githubusercontent.com/sucksense/sucksense/main/workshop/grenade helper.lua|Nade' Helper
-CODE|https://raw.githubusercontent.com/sucksense/sucksense/refs/heads/main/workshop/senkotech|senkotech_shared
+CODE|https://raw.githubusercontent.com/sucksense/sucksense/refs/heads/main/workshop/senkotech|senkotech
+CODE|https://raw.githubusercontent.com/sucksense/sucksense/refs/heads/main/workshop/emberlash|emberlash v2
