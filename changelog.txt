@@ -1,4 +1,5 @@
 BUILD: Release
 UPDATED: 30.11.2025
 CHANGELOG:
-workshop & cloudlua - done
+- fixed 'Occlusion flag'
+- other fixes
