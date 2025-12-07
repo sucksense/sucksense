@@ -1,5 +1,5 @@
 BUILD: Release
 UPDATED: 07.12.2025
 CHANGELOG:
-- Added 'Weather changer'
-- Added 'Modulation' ( smoke, blood, weapon effects )
+- Improved 'Weather Changer' ( added ambient sounds )
+- Added 'Modulate Weather Particles'
