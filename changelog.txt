@@ -1,5 +1,5 @@
 BUILD: Release
-UPDATED: 30.11.2025
+UPDATED: 07.12.2025
 CHANGELOG:
-- fixed 'Occlusion flag'
-- other fixes
+- Added 'Weather changer'
+- Added 'Modulation' ( smoke, blood, weapon effects )
