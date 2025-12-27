@@ -1,6 +1,7 @@
 BUILD: Release
-UPDATED: 26.12.2025
+UPDATED: 27.12.2025
 CHANGELOG:
-  added new libraries have been that you can use in your lua scripts: 
+  added new libraries that you can use in your lua scripts: 
   - lagcompensation ( gamesense/lagcompensation )
   - INetChannel ( gamesense/INetChannel )
+  - extended_exploits ( gamesense/extended_exploits )
