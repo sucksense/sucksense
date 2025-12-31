@@ -1,0 +1,11 @@
+Arctic #1 | models/player/custom_player/eminem/css/t_arctic.mdl
+Arctic #2 | models/player/custom_player/legacy/tm_arctic_varianta.mdl
+Arctic Orange | models/player/custom_player/eminem/css/t_arctic_orange/t_arctic_orange.mdl
+Leet 105 | models/player/custom_player/eminem/css/t_leet_105/t_leet_105.mdl
+Guerilla | models/player/custom_player/eminem/css/t_guerilla_orange/t_guerilla_orange.mdl
+Urban | models/player/custom_player/eminem/css/ct_urban.mdl
+Ballas | models/player/custom_player/eminem/gta_sa/ballas1.mdl
+Wuzimu | models/player/custom_player/eminem/gta_sa/wuzimu.mdl
+Grove | models/player/custom_player/eminem/gta_sa/fam1.mdl
+Russian Federation | models/player/custom_player/night_fighter/putin/putin.mdl
+Hatsune Miku | models/player/custom_player/toppiofficial/vocaloid/yyb/miku_10th_v2.mdl
