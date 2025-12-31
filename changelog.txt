@@ -1,7 +1,5 @@
 BUILD: Release
-UPDATED: 27.12.2025
+UPDATED: 31.12.2025
 CHANGELOG:
-  added new libraries that you can use in your lua scripts: 
-  - lagcompensation ( gamesense/lagcompensation )
-  - INetChannel ( gamesense/INetChannel )
-  - extended_exploits ( gamesense/extended_exploits )
+  now models downloading when you enable 'Model Changer' in menu
+  added 'hysteria' in workshop
