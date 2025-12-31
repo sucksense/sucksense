@@ -9,3 +9,4 @@ Wuzimu | models/player/custom_player/eminem/gta_sa/wuzimu.mdl
 Grove | models/player/custom_player/eminem/gta_sa/fam1.mdl
 Russian Federation | models/player/custom_player/night_fighter/putin/putin.mdl
 Hatsune Miku | models/player/custom_player/toppiofficial/vocaloid/yyb/miku_10th_v2.mdl
+Hatsune Miku #2 | models/player/custom_player/toppiofficial/vocaloid/yyb/miku_10th_v2.mdl
