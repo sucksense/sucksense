@@ -1,6 +1,6 @@
-BUILD: Release
-UPDATED: 02.12.2026
+BUILD: Open-beta
+UPDATED: 12.02.2026
 CHANGELOG:
-  updated lua-api
+  updated lua-api: https://uwusense.gitbook.io/lua-api
   improved optimization
   improved customization esp elements
